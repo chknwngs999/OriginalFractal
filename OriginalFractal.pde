@@ -20,7 +20,7 @@ void setup() {
 
   drawn = false;
   x = y = 500;
-  baselen = 200;
+  baselen = 500;
   int temp = baselen;
 
   while (baselen > 50) {
